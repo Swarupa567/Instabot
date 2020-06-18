@@ -5,7 +5,7 @@
 ## Requirements
 Download Chrome Driver ( https://chromedriver.chromium.org/) and make sure you have this in the same folder.
 
-Python 3.7
+Python 
 
 ### Instabot will 
 
