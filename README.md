@@ -11,13 +11,13 @@ Python 3.7
 
 :rocket:Login page 
 
-:ballot_box_with_check: Follow users you want to follow
+:ballot_box_with_check: Follow users you want to reach
 
-:no_bell:Unfollow users with whom you dont wanna reach
+:no_bell:Unfollow users who don't follow you back
 
-:blue_heart:Like users post
+:blue_heart:Like posts in your news feed - only those you want to
 
-:blue_heart:like tagpost
+:blue_heart:like tagpost in your feed
 
 :thought_balloon:Comments on user post
 
